@@ -1,0 +1,57 @@
+.nav-menu li a:hover {
+  color: #c7da3d;
+}
+
+.section-search input {
+  padding: 5px !important ;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+  border-radius: 0.2em !important;
+}
+
+.fab {
+  color: white;
+}
+
+.fa-facebook-square:hover {
+  color: #6c90dc;
+}
+.fa-twitter-square:hover {
+  color: #00acee;
+}
+.fa-linkedin:hover {
+  color: #4688d8;
+}
+.fa-google-plus-square:hover {
+  color: #e4746c;
+}
+.fa-pinterest-square:hover {
+  color: #ee404cd5;
+}
+
+.section-follow {
+  background-image: url("../img/palm1.jpg") !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.section-follow .fab {
+  margin: 5px 10px;
+}
+
+.location-card {
+  background-image: url("../img/ryan-parker-mqpawAQXRyA-unsplash.jpg") !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+@media (max-width: 600px) {
+  .galery-item {
+    margin-bottom: 20px !important;
+  }
+  .galery-row {
+    margin: 0 !important;
+  }
+}
